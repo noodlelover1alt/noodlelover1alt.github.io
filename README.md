@@ -1,3 +1,6 @@
+# Coreus' selenite backend
+Games backend by selenite mirrpored to be used on coreus
+
 ## Selenite
 The better unblocked games website.
 ## Deploy to a cloud service
